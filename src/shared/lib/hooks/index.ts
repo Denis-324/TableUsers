@@ -1,0 +1,1 @@
+export { useCustomHook } from './useCustomHook';
